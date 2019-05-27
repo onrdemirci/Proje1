@@ -9,3 +9,14 @@ C:\Users\ONURDEMIRCI\Desktop\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bil
 C:\Users\ONURDEMIRCI\Desktop\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
 C:\Users\ONURDEMIRCI\Desktop\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb
 C:\Users\ONURDEMIRCI\Desktop\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form2.resources
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe.config
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.pdb
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csprojAssemblyReference.cache
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form2.resources
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.cache
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
+C:\GithubURLS\Proje1\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb

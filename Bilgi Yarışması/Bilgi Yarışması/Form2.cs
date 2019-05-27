@@ -17,6 +17,8 @@ namespace Bilgi_Yarışması
             InitializeComponent();
         }
 
+        bool canJokeriUsed = false;
+
         int Sorusayısı = 0, Dogru = 0, yanlıs = 0;
 
         private void BtnB_Click(object sender, EventArgs e)
@@ -91,6 +93,34 @@ namespace Bilgi_Yarışması
             }
         }
 
+        private void buttonCanJokeri_Click(object sender, EventArgs e)
+        {
+            BtnSonraki.Enabled = true;
+            yanlıs--;
+            LblYanlis.Text = yanlıs.ToString();
+
+            canJokeriUsed = false;
+            buttonCanJokeri.BackColor = Color.Red;
+            buttonCanJokeri.Enabled = false;
+
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            if (canJokeriUsed)
+            {
+                buttonCanJokeri.BackColor = Color.Red;
+                buttonCanJokeri.Enabled = false;
+
+            }
+            else
+            {
+                buttonCanJokeri.BackColor = Color.Green;
+                buttonCanJokeri.Enabled = true;
+            }
+        }
+
         private void BtnA_Click(object sender, EventArgs e)
         {
             BtnA.Enabled = false;
@@ -117,6 +147,18 @@ namespace Bilgi_Yarışması
 
         private void BtnSonraki_Click(object sender, EventArgs e)
         {
+            if (canJokeriUsed)
+            {
+                buttonCanJokeri.BackColor = Color.Red;
+                buttonCanJokeri.Enabled = false;
+
+            }
+            else
+            {
+                buttonCanJokeri.BackColor = Color.Green;
+                buttonCanJokeri.Enabled = true;
+            }
+
             BtnA.Enabled = true;
             BtnB.Enabled = true;
             BtnC.Enabled = true;
